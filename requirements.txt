@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+numpy
+ipykernel
+matplotlib
+seaborn
+shap==0.38.1
+lazypredict==0.2.12
+imblearn
+
