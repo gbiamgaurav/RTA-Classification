@@ -1,4 +1,4 @@
-## Road-Traffic-Accident-Classification
+## Road Traffic Accident Severity Classification
 
 
 ## create the environment
