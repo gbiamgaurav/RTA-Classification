@@ -3,7 +3,7 @@
 
 ## create the environment
 
-`conda create -p <env_name> python==3.8 -y`
+`conda create -n <env_name> python==3.9.15 -y`
 
 ## install the requirements.txt
 
