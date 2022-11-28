@@ -12,10 +12,6 @@
 
 ## find the App here :- 
 
-### On Heroku :-
-
-https://traffic-severity.herokuapp.com/
-
 
 ### On Streamlit cloud :-
 
